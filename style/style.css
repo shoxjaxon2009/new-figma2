@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.continer {
+    width: 1140px;
+    margin-top: 150px;
+}
+
+.a {
+    margin-left: 100px;
+}
+
+.b {
+    margin-left: 100px;
+}
+
+.e {
+    margin-left: 400px;
+    margin-top: -200px;
+}
+
+.f {
+    margin-left: 785px;
+    margin-top: -355px;
+}
+
+.g {
+    margin-left: 404px;
+}
